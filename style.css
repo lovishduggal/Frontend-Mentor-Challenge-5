@@ -95,6 +95,12 @@ main .container .content-bottom .card-3 .top {
   display: flex;
   margin-bottom: 1rem;
 }
+main .container .content-bottom .card-2 {
+  margin-top: 1rem;
+}
+main .container .content-bottom .card-3 {
+  margin-top: 2rem;
+}
 main .container .content-bottom .card-1 .top h5,
 main .container .content-bottom .card-2 .top h5,
 main .container .content-bottom .card-3 .top h5 {
